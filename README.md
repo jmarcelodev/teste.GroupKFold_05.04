@@ -1,4 +1,4 @@
-
+Caso exita uma dúvida quanto ao código, aqui está descrito tudo que foi feito. Se a dúvida persistir, envie o um email para o endereço: joao.m.filho@ufv.br. Te responderei o mais rápido possivel
 
 Teste usando todos os 19 talhões e a técnica de validação GroupKFold, realizada no dia 05/04/2024. https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupKFold.html link de uma explicação mais detalhada de como funciona o GroupKFold
 
